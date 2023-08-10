@@ -2,7 +2,7 @@
 
 # Using built in sort method for Python lists
 
-from Stack import MyStack
+from _Stack import MyStack
 
 def sort_stack(stack):
   stack.stack_list.sort(reverse=True)

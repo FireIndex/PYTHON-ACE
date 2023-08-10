@@ -1,4 +1,4 @@
-from Node import DoubleNode as Node
+from _Node import DoubleNode as Node
 
 class DoubleLinkList:
     def __init__(self):

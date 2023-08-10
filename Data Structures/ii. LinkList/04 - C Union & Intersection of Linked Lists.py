@@ -1,7 +1,7 @@
 # 04 - C Union & Intersection of Linked Lists.py
 
-from LinkedList import LinkedList
-from Node import Node
+from _LinkedList import LinkedList
+from _Node import Node
 
 
 def union(list1, list2):

@@ -1,8 +1,8 @@
 # 02 - C Find Middle Node of Linked List.py
 # 
 
-from LinkedList import LinkedList
-from Node import Node
+from _LinkedList import LinkedList
+from _Node import Node
 # Access HeadNode => list.getHead()
 # Check length => list.length()
 # Check if list is empty => list.isEmpty()

@@ -1,7 +1,7 @@
 # 05 - C Return the Nth Node from End.py
 
-from LinkedList import LinkedList
-from Node import Node
+from _LinkedList import LinkedList
+from _Node import Node
 
 
 def find_nth(lst, n):

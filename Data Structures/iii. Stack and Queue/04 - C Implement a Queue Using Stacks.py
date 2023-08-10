@@ -1,6 +1,6 @@
 # 04 - C Implement a Queue Using Stacks.py
 
-from Stack import MyStack
+from _Stack import MyStack
 
 class NewQueue:  
 

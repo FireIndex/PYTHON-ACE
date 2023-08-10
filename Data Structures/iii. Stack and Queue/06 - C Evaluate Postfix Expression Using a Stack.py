@@ -10,7 +10,7 @@ Sample Output
 '''
 
 
-from Stack import MyStack
+from _Stack import MyStack
 
 def evaluate_post_fix(exp):
     stack = MyStack()

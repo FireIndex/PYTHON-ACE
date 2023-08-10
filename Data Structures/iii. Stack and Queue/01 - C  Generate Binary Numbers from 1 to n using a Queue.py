@@ -1,6 +1,6 @@
 # 01 - C  Generate Binary Numbers from 1 to n using a Queue.py
 
-from Queue import MyQueue
+from _Queue import MyQueue
 
 def find_bin_queue(num):  
     queue = MyQueue()

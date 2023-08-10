@@ -4,7 +4,7 @@
 # Create Queue => queue = myQueue(5); where 5 is size of queue
 # Stack Functions => isEmpty(), isFull(), top()
 # Queue Functions => enqueue(int),dequeue(),isEmpty(),getSize()
-from Stack import MyStack
+from _Stack import MyStack
 
 class MinStack:
     # Constructor

@@ -1,7 +1,7 @@
 # 03 - C Reversing First k Elements of Queue.py
 
-from Queue import MyQueue
-from Stack import MyStack
+from _Queue import MyQueue
+from _Stack import MyStack
 
 # 1.Push first k elements in queue in a stack.
 # 2.Pop Stack elements and enqueue them at the end of queue

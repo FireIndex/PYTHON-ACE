@@ -1,4 +1,4 @@
-from DoublyLinkedList import DoublyLinkedList
+from _DoublyLinkedList import DoublyLinkedList
 
 # With typical arrays, however, the time complexity is O(n) when dequeuing an element from the beginning of the queue. This is because when an element is removed, the addresses of all the subsequent elements must be shifted by 1, which makes it less efficient. With linked lists and doubly linked lists, the operations become faster.
 

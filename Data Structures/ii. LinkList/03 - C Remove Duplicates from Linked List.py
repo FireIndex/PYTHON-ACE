@@ -1,8 +1,8 @@
 # 03 - C Remove Duplicates from Linked List.py
 # Let's try to figure out the Pythonic solution for removing duplicates from a linked list.
 
-from LinkedList import LinkedList
-from Node import Node
+from _LinkedList import LinkedList
+from _Node import Node
 
 
 def remove_duplicates(lst):

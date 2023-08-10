@@ -1,7 +1,7 @@
 # 01 - C Find the Length of LinkedList.py
 
-from Node import Node
-from LinkedList import LinkedList
+from _Node import Node
+from _LinkedList import LinkedList
 
 
 def length(lst):

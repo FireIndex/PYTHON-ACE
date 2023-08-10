@@ -1,6 +1,6 @@
 # 07 - C Next Greater Element Using a Stack.py
 
-from Stack import MyStack
+from _Stack import MyStack
 
 def next_greater_element(lst):
     res = []

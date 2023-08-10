@@ -1,5 +1,5 @@
 
-from Stack import MyStack
+from _Stack import MyStack
 
 def is_balanced(exp):
     stack = MyStack()

@@ -53,6 +53,7 @@ def bfs_traversal(g, source):
         if not visited[i]:
             result_new, visited = bfs_traversal_helper(g, i, visited)
             result += result_new
+            
     return result
 
 
